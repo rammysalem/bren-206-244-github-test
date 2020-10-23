@@ -13,11 +13,11 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+black <- 20
 
-red <- 15
+white <- 30
 
-purple <- blue/red
+gray <- black/white
 
 ```
 
